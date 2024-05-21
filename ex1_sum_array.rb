@@ -24,5 +24,5 @@ end
 arr1 = [1, 2, 3, 4, 5]
 arr2 = [-1, 1, 0, 5, -5]
 
-puts soma_array(arr1)  # Output: 15
-puts soma_array(arr2) # Output: 0
+puts "Output: #{soma_array(arr1)}"  # Output: 15
+puts "Output: #{soma_array(arr2)}" # Output: 0
